@@ -1,1 +1,2 @@
-# cmu-social-media-listening
+# Natural Language Processing: Apple VS Samsung Popularity
+
